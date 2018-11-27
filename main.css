@@ -19,20 +19,19 @@ div {
 }
 
 #yellow {
-  background-color: #f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`;
-Indigo: `#8a2be2`; Violet: `#d300c9`
+  background-color: #ff0;
 }
 
 #green {
-  
+  background-color: #00bc3f;
 }
 
 #blue {
-  
+  background-color: #06f;
 }
 
 #indigo {
-  
+ background-color: #8a2be2`; Violet: `#d300c9`
 }
 
 #violet {
